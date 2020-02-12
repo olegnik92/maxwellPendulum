@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.stand-wrapper{
+    width: 100%;
+    height: auto;
+}
+
+.stand{
+    width: 500px;
+    height: 650px;
+    border: solid 1px gray;
+    display: block;
+    background-color: lightblue;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.display-center{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+.img-offset{
+    position: relative;
+    top: 10px;
+}
+
+.main{
+    margin: 20px;
+}
